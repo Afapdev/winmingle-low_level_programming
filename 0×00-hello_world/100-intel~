@@ -1,0 +1,4 @@
+#!/bin/bash
+# 100-intel - Generate assembly code from a C file (Termux / ARM safe version)
+
+gcc -S "$CFILE" -o "${CFILE%.c}.s"

@@ -1,0 +1,6 @@
+#!/bin/bash
+# Author: Michael Ayanfe Robinson
+# Program: WinMingle Community C Training
+# Description: Generating a file called 100-intel for my future project, c programming laguage is challeging and fun to learn also.
+
+gcc -S "$CFILE" -o "${CFILE%.c}.s"

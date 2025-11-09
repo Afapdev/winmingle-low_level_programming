@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
- *
- * Return: Always 0 (Success)
+ * Author: Michael Ayanfe Robinson
+ * Program: WinMingle Community C Training
+ * Description: This program  is for my future 
  */
+
 int main(void)
 {
   puts("\"Programming is like building a multilingual puzzle");
