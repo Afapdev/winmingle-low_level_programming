@@ -1,2 +1,8 @@
 #!/bin/bash
+# Author: Michael Ayanfe Robinson
+# Program: WinMingle Community C Training
+# Description: Generating A file called 0-preprocessor for my future project,I love c Laguage
+
+
+#!/bin/bash
 gcc -E $CFILE -o c
